@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var TITLE = 'Neal Patel Districts in CT, 2018-19';
+  var TITLE = 'Neal Patel Edited District Graph';
 
   // `false` for vertical column chart, `true` for horizontal bar chart
   var HORIZONTAL = false;
