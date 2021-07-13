@@ -16,12 +16,12 @@ $(document).ready(function() {
     {
       column: 'nonlearner',
       name: 'Non-Learners',
-      color: 'grey'
+      color: 'purple'
     },
     {
       column: 'learner',
       name: 'Learners',
-      color: 'blue'
+      color: 'yellow'
     }
   ];
 
